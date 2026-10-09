@@ -1,5 +1,3 @@
-# Awesome-AI-Business-Intelligence
-
 # Awesome-AI-Business-Intelligence 📊 🧠
 
 <p align="center">
